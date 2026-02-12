@@ -19,6 +19,7 @@ const corsOptions = {
       "https://drf-trocaprecos.web.app",
       "https://trocaprecopub.vercel.app",
       "https://trocapreco.vercel.app",
+      "https://trocapre.vercel.app",
       "https://trocaprecoback.vercel.app",
     ];
 
